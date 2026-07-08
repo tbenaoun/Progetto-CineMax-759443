@@ -1,0 +1,8 @@
+nome,cognome,username,password,dataNascita,domicilio,ruolo
+Marco,Rossi,mrossi,pass123,1985-03-12,Milano,Proiezionista
+Laura,Bianchi,lbianchi,pass456,1990-07-24,Varese,Proiezionista
+Giovanni,Ferrari,gferrari,pass789,1995-01-08,Como,Bigliettaio
+Sofia,Esposito,sesposito,pass321,1998-11-30,Milano,Bigliettaio
+Luca,Romano,lromano,pass654,1993-05-17,Varese,Bigliettaio
+Giulia,Conti,gconti,pass987,2000-09-03,Como,Bigliettaio
+Andrea,Marino,amarino,pass111,1988-12-21,Milano,Bigliettaio
